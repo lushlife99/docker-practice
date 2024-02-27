@@ -1,0 +1,8 @@
+.inputStyle {
+  background-color: black;
+  color: white;
+}
+.inputStyle::placeholder {
+  color: black;
+  font-weight: bold;
+}
